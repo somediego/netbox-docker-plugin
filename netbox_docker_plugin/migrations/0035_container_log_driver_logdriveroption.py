@@ -1,4 +1,4 @@
-# pylint: disable=C0103
+# pylint: disable=C0103,W0613
 """Migration file"""
 
 import django.core.validators
